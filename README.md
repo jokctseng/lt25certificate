@@ -73,6 +73,8 @@ Combine form to generate certificates with a simple verification mechanism.
 - 誰可以存取：`任何人`
 - 複製網頁應用程式網址，貼於`Code.gs`的`VERIFICATION_PAGE_URL`
 
+驗證頁面如下圖所示。
+
 ![](/Sample_verify.jpg)  
 
 ---
