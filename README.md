@@ -4,6 +4,8 @@ Combine form to generate certificates with a simple verification mechanism.
 這是一個基於 **Google 表單 + Google Apps Script + Google Slides + Gmail** 打造的線上證書自動發送與驗證工具。  
 能夠自動產生 PDF 證書、Email 寄送、QR Code 驗證、發證記錄保存，不需強大的Coding技術也能搞定喔～
 
+[![歡迎抖內，請我喝杯咖啡](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C3ODORW)
+
 ---
 
 ## ✨ 功能特色
